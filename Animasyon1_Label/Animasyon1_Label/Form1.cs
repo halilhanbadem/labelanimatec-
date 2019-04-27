@@ -17,7 +17,7 @@ namespace Animasyon1_Label
             InitializeComponent();
         }
 
-        string icerik = "ÖMER FARUK";
+        string icerik = "HALİL HAN BADEM";
         string temp_icerik = "";
         char[] alfabe = {'A','B','C','Ç','D','E','F','G','Ğ','H','I','İ','J','K','L','M','N','O','Ö','P','R','S','Ş','T','U','Ü','Y','Z', ' '};
         int X = 0;
