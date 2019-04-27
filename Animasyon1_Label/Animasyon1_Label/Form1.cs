@@ -54,7 +54,7 @@ namespace Animasyon1_Label
                     X++;
 
             }
-            catch (Exception)
+            catch (Exception) ///written in terms of example. The array error has been ignored. If you wish, you can cancel the try structure with a little control.
             {
                 timer1.Enabled = false;
             }
